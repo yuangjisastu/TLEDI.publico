@@ -1,0 +1,5 @@
+Teoria: Asymptotic_Safety
+Dimensão: 4
+Bias usado: 0.720
+Ruído max: 0.5
+Total de limites possíveis: 12
